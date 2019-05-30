@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## yst's first page
 
 You can use the [editor on GitHub](https://github.com/ding25926/MyPage1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
